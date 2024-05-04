@@ -19,9 +19,14 @@ Stores aggregated results into both Postgres and Elasticsearch for further analy
 
 ## Screenshots
 
+![Confluent-kafka](https://github.com/tejasjbansal/Realtime-Streaming-with-Apache-Flink/assets/56173595/67db6f96-08ce-427b-a17d-5c5b6e7c0866)
+
 ![Apache-flink](https://github.com/tejasjbansal/Realtime-Streaming-with-Apache-Flink/assets/56173595/be834c11-6df9-4699-a7fc-6bd8049573f3)
 
-![Confluent-kafka](https://github.com/tejasjbansal/Realtime-Streaming-with-Apache-Flink/assets/56173595/67db6f96-08ce-427b-a17d-5c5b6e7c0866)
+![Postgres](https://github.com/tejasjbansal/Realtime-Streaming-with-Apache-Flink/assets/56173595/3f6b0b1f-2b28-44a6-9264-56441939d2a2)
+
+![Elastic-Search](https://github.com/tejasjbansal/Realtime-Streaming-with-Apache-Flink/assets/56173595/4ec061c9-cf0e-43d5-8685-633843c3e0e4)
+
 
 ## Contributing
 We welcome contributions! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request.
